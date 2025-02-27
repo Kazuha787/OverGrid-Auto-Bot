@@ -7,7 +7,6 @@ OverGrid Auto Bot this Script Help You To Complete All Quests And Claim Daily Af
 # GitHub Repository: [Overgrid](https://github.com/Kazuha787/OverGrid-Auto-Bot.git)
 
 ## ✨ Features
-
 - Multi-account support
 - Proxy support (HTTP, SOCKS4, SOCKS5)
 - Auto-retry on failures
@@ -16,9 +15,6 @@ OverGrid Auto Bot this Script Help You To Complete All Quests And Claim Daily Af
 - Customizable harvest intervals
 
 - ## Instalation
-- 
-## English
-
 This Node.js script automates AI-related blockchain question generation and interaction with AI agents. It features randomized request timing, persistent headers, and API integration.
 
 ### Features
